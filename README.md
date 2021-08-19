@@ -6,4 +6,4 @@ Note: Converted to HTML using <code>nbconvert</code> as follows:
 
 <code>jupyter nbconvert --to HTML Name-of-notebook.ipynb</code>
 
-Find HTML versions in my github.io page [here](https://raghavchhetri.github.io/scattered.dimes/)
+HTML versions hosted on my github.io page [here](https://raghavchhetri.github.io/scattered.dimes/)
